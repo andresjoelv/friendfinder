@@ -12,8 +12,8 @@ Friend Finder is deployed to Heroku. Please check it out here.
 ## Installation
 To install the application follow the instructions below:
 ```
-git clone git@github.com:angrbrd/friend-finder.git
-cd friend-finder
+git clone git@github.com:andresjoelv/friendfinder.git
+cd friendfinder
 npm install
 ```
 
